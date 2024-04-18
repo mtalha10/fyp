@@ -1,8 +1,6 @@
-# Flask Web App Tutorial
+# Final Year Project using FLask for Authentication and Database
 
 ## Setup & Installation
-
-Make sure you have the latest version of Python installed.
 
 ```bash
 git clone <repo-url>
